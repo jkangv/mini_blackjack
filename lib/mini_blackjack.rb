@@ -1,5 +1,5 @@
 require_relative 'card_and_deck'
-require_relative 'playeR_hand'
+require_relative 'player_hand'
 
 class Blackjack
   attr_accessor :player, :dealer
